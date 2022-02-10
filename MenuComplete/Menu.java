@@ -12,10 +12,10 @@ public class Menu {
       // if(choice == 'A') {
       //   System.out.println("You chose A");
       // }
-      // else if(choice == 'A') {
+      // else if(choice == 'B') {
       //   System.out.println("You chose B");
       // }
-      // else if(choice == 'A') {
+      // else if(choice == 'C') {
       //   System.out.println("You chose C");
       // }
       // else if(choice == 'X') {
